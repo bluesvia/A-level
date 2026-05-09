@@ -214,8 +214,7 @@ const SequenceBanner = () => {
             <div className="w-full flex justify-center md:justify-start pointer-events-auto mt-4 md:mt-8">
               <motion.a 
                 href="https://www.iwsonlineschool.co.uk/contact-us" 
-                target="_blank" 
-                rel="noopener noreferrer" 
+                target="_top" 
                 className="group relative inline-flex items-center justify-center gap-2 px-6 sm:px-8 py-3 sm:py-4 bg-[#164ced] text-white font-medium text-base sm:text-lg rounded-full overflow-hidden shadow-xl shadow-[#164ced]/30 border border-[#164ced]/50"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
